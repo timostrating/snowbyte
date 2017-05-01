@@ -12,3 +12,8 @@ This is the private development repo for snowbyte.nl
 - http://checklandkindleysides.com/work/coast
 - https://blog.sketchfab.com/art-spotlight-firewatch-fan-art/
 - http://yellowbirdsdonthavewingsbuttheyflytomakeyouexperiencea3dreality.com/
+
+## already good websites
+- http://websiteanalist.nl/
+- https://panache.nu/
+- http://www.grendel-games.com/een-kijkje-in-ons-kantoor/
