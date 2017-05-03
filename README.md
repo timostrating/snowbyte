@@ -17,3 +17,14 @@ This is the private development repo for snowbyte.nl
 - http://websiteanalist.nl/
 - https://panache.nu/
 - http://www.grendel-games.com/een-kijkje-in-ons-kantoor/
+
+## TODO's
+- [ ] Planning
+- [ ] Deadline
+- [ ] Desing
+- [ ] Onwikkeling
+- [ ] Release
+- [ ] Nieuwe Hosting
+- [ ] SEO
+- [ ] Price Calculator
+
