@@ -18,8 +18,13 @@ This is the private development repo for snowbyte.nl
 - https://panache.nu/
 - http://www.grendel-games.com/een-kijkje-in-ons-kantoor/
 
+## Plan
+- Start a Master plan repo
+- Write down all goals in Master plan repo
+- Get a mentor
+
 ## TODO's
-- [ ] Planning
+- [x] Planning
 - [ ] Deadline
 - [ ] Desing
 - [ ] Onwikkeling
