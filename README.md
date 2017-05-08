@@ -21,6 +21,7 @@ This is the private development repo for snowbyte.nl
 ## Plan
 - Start a Master plan repo
 - Write down all goals in Master plan repo
+- Get friend to do a Master plan challange as well
 - Get a mentor
 
 ## TODO's
