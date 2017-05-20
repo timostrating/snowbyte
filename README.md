@@ -12,6 +12,14 @@ This is the private development repo for snowbyte.nl
 - http://checklandkindleysides.com/work/coast
 - https://blog.sketchfab.com/art-spotlight-firewatch-fan-art/
 - http://yellowbirdsdonthavewingsbuttheyflytomakeyouexperiencea3dreality.com/
+- http://checklandkindleysides.com/work/sony-playstation
+- http://www.uipasta.com/wordpress-preview/rolling/
+- http://getcollect.io/
+- https://www.worldwildlife.org/
+- https://www.puuridee.nl/onze-diensten/
+- http://www.noorderlink.nl
+- http://www.manter.com
+
 
 ## already good websites
 - http://websiteanalist.nl/
