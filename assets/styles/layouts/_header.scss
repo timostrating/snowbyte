@@ -1,0 +1,30 @@
+
+
+
+
+
+header {
+	nav.bg-inverse {
+		background-color: $brand-primary !important;
+		margin-bottom: -40px;
+	}
+
+	.masthead-brand {
+	    float: left;
+	    margin-bottom: 0;
+	}
+	.nav-masthead {
+	    float: right;
+	}
+	.navbar-inverse .navbar-nav .nav-link {
+		color: white;
+	}
+}
+
+.hero {
+	background-color: $brand-primary;
+	color: white;
+	text-align: center;
+	padding: 70px 10px;
+	margin-bottom: 50px;
+}
