@@ -10,35 +10,15 @@ This is the private development repo for snowbyte.nl
 - https://onedesigncompany.com/
 - http://steven.codes/typerjs/
 - http://checklandkindleysides.com/work/coast
-- https://blog.sketchfab.com/art-spotlight-firewatch-fan-art/
 - http://yellowbirdsdonthavewingsbuttheyflytomakeyouexperiencea3dreality.com/
 - http://checklandkindleysides.com/work/sony-playstation
 - http://www.uipasta.com/wordpress-preview/rolling/
-- http://getcollect.io/
-- https://www.worldwildlife.org/
 - https://www.puuridee.nl/onze-diensten/
 - http://www.noorderlink.nl
-- http://www.manter.com
 
-
-## already good websites
-- http://websiteanalist.nl/
-- https://panache.nu/
-- http://www.grendel-games.com/een-kijkje-in-ons-kantoor/
-
-## Plan
-- Start a Master plan repo
-- Write down all goals in Master plan repo
-- Get friend to do a Master plan challange as well
-- Get a mentor
-
-## TODO's
-- [x] Planning
-- [ ] Deadline
-- [ ] Desing
-- [ ] Onwikkeling
-- [ ] Release
-- [ ] Nieuwe Hosting
-- [ ] SEO
-- [ ] Price Calculator
-
+## TODO
+[x] talk width designer
+[ ] design homepage
+[ ] design other pages
+[ ] development homepage
+[ ] development blog
