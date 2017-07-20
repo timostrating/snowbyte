@@ -17,8 +17,8 @@ This is the private development repo for snowbyte.nl
 - http://www.noorderlink.nl
 
 ## TODO
-[x] talk width designer
-[ ] design homepage
-[ ] design other pages
-[ ] development homepage
-[ ] development blog
+- [x] talk width designer
+- [ ] design homepage
+- [ ] design other pages
+- [ ] development homepage
+- [ ] development blog
